@@ -1,0 +1,30 @@
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: red;
+}
+
+canvas {
+  cursor: url(https://raw.githubusercontent.com/mcnitt/simple-jquery-drawing-app/master/img/cursor.png),
+    crosshair;
+  width: 100%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#tool{
+  width: 20%;
+}
+
+nav{
+  display:inline; 
+}
+
+h3{
+  text-align: center;
+}
